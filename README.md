@@ -138,4 +138,4 @@ Never put a real key or server address in this repository. We scored higher on o
 Unsloth · Meta (Llama 3.1) · our lecturer and the course material
 
 ## Authors
-Zulqarnain (Hugging Face: qarnaynn) and Haziq, team Anti-Hallucinate
+Zulqarnain (Hugging Face: qarnaynn) and Haziq Zulkifli (GitHub: Haziqzulkifli5115), team Anti-Hallucinate
